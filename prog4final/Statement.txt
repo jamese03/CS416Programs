@@ -1,0 +1,18 @@
+This assignment submission represents my personal effort on the assignment. 
+I have received no code from any other person or source that is not 
+acknowledged in the comments.
+
+The following people provided technical knowledge and guidance to help me 
+complete the assignment:
+       instructors/staff of CS416
+       the PAC Stephen was very helpful and Chris
+       others
+
+   If others, briefly describe the nature and the extent of the help.
+
+Stephen helped me with the math behind the get center method, he explained it very well and showed me how my math was slightly off. 
+	
+ 
+James English 
+
+

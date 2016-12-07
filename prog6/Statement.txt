@@ -1,0 +1,17 @@
+This assignment submission represents my personal effort on the assignment. 
+I have received no code from any other person or source that is not 
+acknowledged in the comments.
+
+The following people provided technical knowledge and guidance to help me 
+complete the assignment:
+       instructors/staff of CS416
+       the PAC Sophia was very helpful same with chris 
+       others
+
+   If others, briefly describe the nature and the extent of the help.
+    Stephen, Jake, and Sophia helped me and a group of students in the pac at the same time, the goup of students and me had very similar problems and the solutions they offered to the problems may look similar in our code. Other than that I think it's fine. 
+	
+ 
+James English 
+
+
